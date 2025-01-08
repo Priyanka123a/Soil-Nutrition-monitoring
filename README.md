@@ -1,3 +1,6 @@
+## KANNAN.N YOGESH.R ABIRAMI.N College Name: Mookambigai college of Engineering##
+
+
 This Arduino project implements a Soil Nutrition Monitoring and Control System, providing real-time data on soil and environmental conditions while automating irrigation control. The key features include:
 
 Sensor Readings:
